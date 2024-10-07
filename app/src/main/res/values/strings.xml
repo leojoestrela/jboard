@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JBoard</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="button_to_add_a_new_game">button to add a new game</string>
+</resources>
