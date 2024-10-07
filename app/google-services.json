@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193381030930",
+    "project_id": "jboard-5e9c2",
+    "storage_bucket": "jboard-5e9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193381030930:android:5c47f70470e1c59f2ccccb",
+        "android_client_info": {
+          "package_name": "com.leojoestrela.jboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JB-6lqZ2Jzi6HxSOuYz3CLa-7IKV38k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
